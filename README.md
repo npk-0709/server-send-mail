@@ -5,4 +5,4 @@
 
 ## Using
 
-### <host>/?email=email&body=body&title=title&name=name
+### Domain/?email=email&body=body&title=title&name=name
